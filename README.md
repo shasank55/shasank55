@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shasank55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data analytics and data science
+- 🌱 I’m currently learning  Machine learning
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ..https://www.linkedin.com/in/shasank-sharma-473090190/.
 
 <!---
