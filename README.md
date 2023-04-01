@@ -8,6 +8,10 @@
   <img src="https://img.icons8.com/color/64/null/python--v1.png"/>   <img src="https://img.icons8.com/stickers/70/null/sql.png"/> <img src="https://img.icons8.com/color/64/null/power-bi.png"/>     ![](https://cdn.icon-icons.com/icons2/2415/PNG/64/postgresql_plain_wordmark_logo_icon_146390.png)
    ![](https://cdn-icons-png.flaticon.com/64/3195/3195693.png)
    <img src="https://img.icons8.com/color/64/null/ms-excel.png"/>
+     
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyaranjan16&theme=darcula&hide_border=false)<br/>
+<!---
   
 
 
