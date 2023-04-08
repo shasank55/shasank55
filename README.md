@@ -1,9 +1,9 @@
-<h1 align="center">  Hi, I’m Shreya Ranjan 👋</h1>
+<h1 align="center">  Hi, I’m Shasank Chawla👋</h1>
 <br />
 <h3>
 
 
-- 👋 Hi, I’m @shasank55
+
 - 👀 I’m interested in Data analytics and data science
 - 🌱 I’m currently learning  Machine learning
 - 💞️ I’m looking to collaborate on data science projects
